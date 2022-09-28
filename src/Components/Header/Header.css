@@ -1,0 +1,21 @@
+.headernav {
+    background-color: #1C2B35;
+    height: 80px;
+    padding: 0 140px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.headernav a {
+    text-decoration: none;
+    color: white;
+    margin-left: 32px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+}
