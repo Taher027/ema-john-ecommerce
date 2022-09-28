@@ -44,6 +44,10 @@
     justify-content: center;
 }
 
+.btn_cart:hover {
+    background-color: yellowgreen;
+}
+
 .btn_cart p {
     margin-right: 8px;
 }
